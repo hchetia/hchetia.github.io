@@ -4,7 +4,7 @@ I am very interested in the non-protein coding regions of human genome and their
 
 I completed my PhD from Bioengineering Research Lab (BERL) in the Dept. of Biosciences and Bioengineering, Indian Institute of Technology Guwahati in 2019, where I studied the silk biosynthesis, metamorphosis and allelochemical defense in the non-model Lepidopteran silkworm, *Antheraea assamensis*. 
 
-My publications can be found here- https://scholar.google.com/citations?user=mpn4DCoAAAAJ&hl=en&oi=ao
+My publications can be found [here]. (http://lab.rockefeller.edu/heintz/)
 
 
 
