@@ -1,8 +1,6 @@
 Hasnahana Chetia
 ================
 
-](./)
-
 *   [About](./)
 *   [Research](./research/)
 *   [Publications](./publications/)
