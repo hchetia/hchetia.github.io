@@ -57,7 +57,7 @@
               <p>I am interested in the non-coding regions of the human genome and their implications in neurodegenerative and pyschiatric illnesses. </p>
               <p> I am experienced in RNAseq, WGS, WGBS-oxBSseq, ATACseq and mitogenomic data analysis. </p>
               <p> I completed my PhD from Bioengineering Research Lab (BERL) in the Dept. of Biosciences and Bioengineering, Indian Institute of Technology Guwahati in 2019, where I studied the silk biosynthesis, metamorphosis and allelochemical defense in the non-model Lepidopteran silkworm, <i>Antheraea assamensis</i>.
-              <p>My publications can be found <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Chetia+H&cauthor_id=28216038">here</a>.
+              <p>My publications can be found <a href="[https://pubmed.ncbi.nlm.nih.gov/?term=Chetia+H&cauthor_id=28216038](https://scholar.google.com/citations?user=mpn4DCoAAAAJ&hl=en&oi=ao)">here</a>.
             </div>
           </div>
         </div>
